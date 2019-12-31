@@ -1,4 +1,4 @@
-## 01.vagrant
+# vagrant
 
 > **Create directory**
 ```shell
