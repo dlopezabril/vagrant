@@ -1,2 +1,4 @@
-* linguist-vendored
-*.sh linguist-vendored=false
+# Shell scripts
+*.sh eol=lf
+configure eol=lf
+configure.ac eol=lf
