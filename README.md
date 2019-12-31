@@ -49,8 +49,11 @@ vagrant destroy -f
 ssh -i ~/Vagrant/CentOS7/.vagrant/machines/default/virtualbox/private_key -p 22 vagrant@10.42.0.15
 ```
 
+---
+
 !!! note Refs
 [Installing Your First Vagrant Box to Run VMs](https://blog.ipswitch.com/installing-your-first-vagrant-box)
+
 [Vagrant Cheat Sheet · GitHub](https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4)
 !!!
 
