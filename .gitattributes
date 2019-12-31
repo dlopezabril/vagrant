@@ -1,5 +1,4 @@
 # Shell scripts
-* linguist-vendored
 *.sh eol=lf
 configure eol=lf
 configure.ac eol=lf
