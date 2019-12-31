@@ -58,6 +58,8 @@ ssh -i ~/Vagrant/CentOS7/.vagrant/machines/default/virtualbox/private_key -p 22 
 [Vagrant Cheat Sheet · GitHub](https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4)
 !!!
 
+---
+
 !!! note Extras
 ```shell
 [all:vars]
