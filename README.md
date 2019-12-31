@@ -1,4 +1,5 @@
 # vagrant
+Vagrant Automation Projects
 
 > **Create directory**
 ```shell
@@ -32,12 +33,10 @@ end
 
 > **Vagrant Commands**
 ```shell
-vagrant reload
-```
-```shell
 vagrant up
 ```
 ```shell
+vagrant reload
 vagrant status
 vagrant ssh
 vagrant halt
@@ -46,7 +45,7 @@ vagrant destroy -f
 
 > **ssh to vm from the shell**
 ```shell
-ssh -i ~/Vagrant/CentOS7/.vagrant/machines/default/virtualbox/private_key -p 22 vagrant@10.42.0.15
+ssh -i ~/Workspaces/vagrant/centos7/.vagrant/machines/default/virtualbox/private_key -p 22 vagrant@10.42.0.15
 ```
 
 ---
